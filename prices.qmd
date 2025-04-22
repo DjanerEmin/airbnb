@@ -6,10 +6,6 @@ title: "Prices"
 
 Here are the current booking rates.
 
--   Daily rate: 60 €
+-   Daily rate: 65 €
 
--   Weekly rate: 250 €
-
--   Monthly rate: 800 €
-
-The weekly and monthly rates include shared use of the community kitchen and washing machine.
+-   Weekly rate: 320 €

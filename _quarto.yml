@@ -11,8 +11,9 @@ website:
       - photos.qmd
       - about.qmd
       - prices.qmd
+      - location.qmd
       - contact.qmd
-      
+      - todos.qmd
 
 format:
   html:
