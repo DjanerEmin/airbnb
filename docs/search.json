@@ -21,6 +21,13 @@
     "text": "Send me a message about availability and booking. i will get back to you as soon as possible."
   },
   {
+    "objectID": "todos.html",
+    "href": "todos.html",
+    "title": "Things to do",
+    "section": "",
+    "text": "Coming up with a guide. For now check out some of the locations i marked on the map:"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Tour",
@@ -32,13 +39,6 @@
     "href": "prices.html",
     "title": "Prices",
     "section": "",
-    "text": "Here are the current booking rates.\n\nDaily rate: 60 €\nWeekly rate: 250 €\nMonthly rate: 800 €\n\nThe weekly and monthly rates include shared use of the community kitchen and washing machine."
-  },
-  {
-    "objectID": "todos.html",
-    "href": "todos.html",
-    "title": "Things to do",
-    "section": "",
-    "text": "Coming up with a guide. For now check out some of the locations i marked on the map:"
+    "text": "Here are the current booking rates.\n\nDaily rate: 65 €\nWeekly rate: 320 €"
   }
 ]

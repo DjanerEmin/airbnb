@@ -5,3 +5,5 @@ title: "Welcome"
 ![](images/IMG_7714.jpeg)
 
 Welcome to my cosy little place, now rented out. 🏡 The flat is decorated in a simple yet warm and welcoming style, with personal touches and green plants 🌿 that bring life to the space. I’ve designed it to be a calming place to unwind, recharge, or simply enjoy a quiet moment.
+
+[Get a tour](../about.html)
