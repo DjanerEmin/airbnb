@@ -6,7 +6,7 @@ I am starting a list of locations for you to visit while in Dresden. I will focu
 
 ## ⌘ Points of Interest 
 
-**🌹 Rosengarten**
+### **🌹 Rosengarten**
 
 A beautifully landscaped rose garden along the Elbe River, featuring around 100 different types of roses and various sculptures. Open year-round with free admission.
 
@@ -14,7 +14,7 @@ A beautifully landscaped rose garden along the Elbe River, featuring around 100 
 
 📍 [Google Maps](https://www.google.com/maps/place/Carusufer+12,+01099+Dresden)
 
-**⛪ Martin-Luther-Platz & Martin-Luther-Kirche**
+### **⛪ Martin-Luther-Platz & Martin-Luther-Kirche**
 
 A picturesque square surrounded by Gründerzeit architecture, centered around the neo-Gothic Martin Luther Church, which plays a significant role in the city’s cultural life.
 
@@ -22,7 +22,7 @@ A picturesque square surrounded by Gründerzeit architecture, centered around th
 
 📍 [Google Maps](https://www.google.com/maps/place/Martin-Luther-Platz+5,+01099+Dresden)
 
-**🌳 Alaunpark**
+### **🌳 Alaunpark**
 
 A spacious urban park popular among locals for relaxation, picnics, and outdoor activities. It features playgrounds, sports facilities, and open green spaces.
 
@@ -30,7 +30,7 @@ A spacious urban park popular among locals for relaxation, picnics, and outdoor 
 
 📍 [Google Maps](https://www.google.com/maps/place/Bischofsweg,+01099+Dresden)
 
-**🐎 Goldener Reiter**
+### **🐎 Goldener Reiter**
 
 An iconic gilded equestrian statue of Augustus the Strong, symbolizing Dresden’s rich history. Located at the Neustädter Markt, it’s a prominent landmark in the city.
 
@@ -38,7 +38,7 @@ An iconic gilded equestrian statue of Augustus the Strong, symbolizing Dresden�
 
 📍 [Google Maps](https://www.google.com/maps/place/Hauptstra%C3%9Fe+38,+01097+Dresden)
 
-**⛲ Albertplatz**
+### **⛲ Albertplatz**
 
 A central square in Neustadt known for its impressive fountains and as a major tram interchange connecting various parts of the city.
 
@@ -46,7 +46,7 @@ A central square in Neustadt known for its impressive fountains and as a major t
 
 📍 [Google Maps](https://www.google.com/maps/place/Albertplatz,+01097+Dresden)
 
-**🎭 Scheune Vorplatz**
+### **🎭 Scheune Vorplatz**
 
 An open space in front of the Scheune cultural center, often used for public events, markets, and gatherings. It’s a vibrant spot reflecting the district’s artistic spirit.
 
@@ -54,7 +54,7 @@ An open space in front of the Scheune cultural center, often used for public eve
 
 📍 [Google Maps](https://www.google.com/maps/place/Alaunstra%C3%9Fe+36-40,+01099+Dresden)
 
-**🪦 Innerer Neustädter Friedhof**
+### **🪦 Innerer Neustädter Friedhof**
 
 One of Dresden’s oldest cemeteries, notable for its baroque grave monuments and as the final resting place for many of the city’s historical figures.
 
@@ -70,7 +70,7 @@ You can find an up-to-date event calender for Dresden [here](https://www.rauze.d
 
 *Here are some of my favourite Cafés in Neustadt.*
 
-**Dhaliwal’s Café & Bistro**
+### **Dhaliwal’s Café & Bistro**
 
 Vegan lunch, cakes, and art.
 
@@ -80,7 +80,8 @@ Vegan lunch, cakes, and art.
 
 📍 [Google Maps](https://www.google.com/maps/place/Louisenstra%C3%9Fe+26,+01099+Dresden)
 
-**Café Glocke**
+### **Café Glocke**
+
 Vegetarian & vegan options awesome location.
 
 📍 Pulsnitzer Straße 1, 01099 Dresden
@@ -89,7 +90,7 @@ Vegetarian & vegan options awesome location.
 
 📍 [Google Maps](https://www.google.com/maps/place/Pulsnitzer+Stra%C3%9Fe+1,+01099+Dresden)
 
-**Café Oswaldz**
+### **Café Oswaldz**
 
 Known for their carrot cake.
 
@@ -99,7 +100,7 @@ Known for their carrot cake.
 
 📍 [Google Maps](https://www.google.com/maps/place/Bautzner+Stra%C3%9Fe+9,+01099+Dresden)
 
-**KAWA Espressobar**
+### **KAWA Espressobar**
 
 Espressobar with homemade cakes.
 
@@ -109,7 +110,7 @@ Espressobar with homemade cakes.
 
 📍 [Google Maps](https://www.google.com/maps/place/Hechtstra%C3%9Fe+7,+01097+Dresden)
 
-**Tattoo-Café Peckerl**
+### **Tattoo-Café Peckerl**
 
 Vegan café and tattoo studio.
 
@@ -119,7 +120,7 @@ Vegan café and tattoo studio.
 
 📍 [Google Maps](https://www.google.com/maps/place/Rudolf-Leonhard-Stra%C3%9Fe+5,+01097+Dresden)
 
-**Kaffee Konkurs**
+### **Kaffee Konkurs**
 
 Vegan-friendly café with cakes.
 
@@ -133,7 +134,7 @@ Vegan-friendly café with cakes.
 
 *Here are the most popular clubs in DD-Neustadt.*
 
-**objekt klein a**
+### **objekt klein a**
 
 A collective-run club known for its diverse events and inclusive atmosphere.
 
@@ -145,7 +146,7 @@ A collective-run club known for its diverse events and inclusive atmosphere.
 
 📍 [Google Maps](https://www.google.com/maps/place/Meschwitzstra%C3%9Fe+9,+01099+Dresden)
 
-**Sektor Evolution**
+### **Sektor Evolution**
 
 A venue hosting a variety of electronic music events and cultural activities.
 
@@ -157,7 +158,8 @@ A venue hosting a variety of electronic music events and cultural activities.
 
 📍 [Google Maps](https://www.google.com/maps/place/An+der+Eisenbahn+2,+01099+Dresden)
 
-**Kashay Salon**
+### **Kashay Salon**
+
 A new oasis in Dresden’s club scene, offering a unique atmosphere and events.
 📍 Meschwitzstraße 15, 01099 Dresden
 
@@ -165,7 +167,7 @@ A new oasis in Dresden’s club scene, offering a unique atmosphere and events.
 
 📍 [Google Maps](https://www.google.com/maps/place/Meschwitzstra%C3%9Fe+15,+01099+Dresden)
 
-**Club Paula**
+### **Club Paula**
 
 Techno, house, and drum’n’bass.
 
@@ -175,7 +177,7 @@ Techno, house, and drum’n’bass.
 
 📍 [Google Maps](https://www.google.com/maps/search/Club+Paula+Dresden)
 
-**Groove Station**
+### **Groove Station**
 
 A versatile club offering parties, concerts, readings, and cultural events.
 
@@ -187,7 +189,7 @@ A versatile club offering parties, concerts, readings, and cultural events.
 
 📍 [Google Maps](https://www.google.com/maps/place/Katharinenstra%C3%9Fe+11-13,+01099+Dresden)
 
-**Downtown Dresden**
+### **Downtown Dresden**
 
 Mainstream Parties every Friday and Saturday, two floors.
 
@@ -196,7 +198,9 @@ Mainstream Parties every Friday and Saturday, two floors.
 📸 [\@downtown.dresden](https://www.instagram.com/downtown.dresden/)
 📍 [Google Maps](https://www.google.com/maps/search/Downtown+Dresden)
 
-Check out this map too:
+## Map
+
+*Check out this map too:*
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1WHHvLKrs9dEYPfccMGkOA_5-TCliwRM&amp;ehbc=2E312F" width="640" height="480">
 
