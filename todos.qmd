@@ -28,7 +28,7 @@ A spacious urban park popular among locals for relaxation, picnics, and outdoor 
 
 📍 Bischofsweg, 01099 Dresden
 
-📍 [Google Maps](https://www.google.com/maps/place/Bischofsweg,+01099+Dresden)
+📍 [Google Maps](https://www.google.com/maps/place/Bischofsweg+34,+01099+Dresden)
 
 ### **🐎 Goldener Reiter**
 
@@ -61,6 +61,8 @@ One of Dresden’s oldest cemeteries, notable for its baroque grave monuments an
 📍 Friedensstraße 2, 01097 Dresden
 
 📍 [Google Maps](https://www.google.com/maps/place/Friedensstra%C3%9Fe+2,+01097+Dresden)
+
+## 
 
 🎤Events
 
